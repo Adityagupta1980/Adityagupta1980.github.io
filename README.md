@@ -27,7 +27,7 @@ html{
 {
     width: 100%;
     height: 100vh;
-    background-image: url("untitled design.png");
+    background-image: url(Untitled\ design.png);
     background-size: cover;
     background-position: center;
     overflow: hidden;
