@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +27,7 @@ html{
 {
     width: 100%;
     height: 100vh;
-    background-image: url(images/Untitled\ design.png);
+    background-image: url(Untitled design.png);
     background-size: cover;
     background-position: center;
     overflow: hidden;
@@ -395,7 +394,7 @@ nav .fas{
 @media only screen and (max-width: 320px){
     #header
     {
-        background-image: url(images/new.png);
+        background-image: url(new.png);
     }
     .header-text
     {
@@ -504,7 +503,7 @@ nav .fas{
         <div class="container">
             <div class="row">
                 <div class="about-col-1">
-                    <img src="images/new.png">
+                    <img src="new.png">
                     </div>
                     <div class="about-col-2">
                         <h1 class="sub-title">About Me</h1>
@@ -590,7 +589,7 @@ nav .fas{
             <div class="sub-title">My Work</div>
             <div class="work-list">
                 <div class="work">
-                    <img src="images/work-1.png">
+                    <img src="work-1.png">
                     <div class="layer">
                         <h3>BudgetBuddy Website</h3>
                         <p>It helps you to manage your budget efficiently and keep a real time record of 
@@ -601,7 +600,7 @@ nav .fas{
                     </div>
                 </div>
                 <div class="work">
-                    <img src="images/work-2.png">
+                    <img src="work-2.png">
                     <div class="layer">
                         <h3>Music app</h3>
                         <p>The app provides you with all the trendy music and pre made playlists and you can listen 
@@ -611,7 +610,7 @@ nav .fas{
                         </div>
                 </div>
                 <div class="work">
-                    <img src="images/work-3.png">
+                    <img src="work-3.png">
                     <div class="layer">
                         <h3>E-commerce website</h3>
                         <p>It provides you to purchase different different things online from a single platform and
